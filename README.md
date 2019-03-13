@@ -1,4 +1,4 @@
-# minionAI Android App
+# minionAI 
 
 ## Περίληψη
 
