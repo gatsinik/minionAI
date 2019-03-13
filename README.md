@@ -1,4 +1,4 @@
-# TF Lite Android App
+# minionAI Android App
 
 ## Building from Source with Bazel
 
