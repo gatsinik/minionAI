@@ -1,0 +1,22 @@
+allen
+ballhammers
+combinationpliers
+cutters
+electricdrills
+endcutters
+fileshandtool
+grips pliers wrench
+hacksaw
+hammers
+oilcan
+openendedwrenches
+ringwrenches
+scissors
+screwdriver
+sidecutters
+steelbrushes
+tinsnipsshears
+trowel
+tubecutters
+verniercalipers
+woodsaw
